@@ -1,8 +1,7 @@
 # Lab 5 - Starter
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
-## Author
-Aarnav Gujjari (A19127921)
+## Aarnav Gujjari (A19127921)
 
 ## GitHub Pages Links
 - **Part 1 - Expose (Party Horn)**: https://aarn4v.github.io/Lab5_Starter/expose.html
