@@ -12,8 +12,8 @@ Aarnav Gujjari (A19127921)
 
 ### 1) Would you use a unit test to test the "message" feature of a messaging application?
 
-**No.** The message feature involves multiple interacting systems (user input, database, network, notifications), making it an integration test, not a unit test. Unit tests should test isolated functions.
+No, you would not use a unit test for the "message" feature because it involves multiple components and systems interacting. Unit tests are designed to test individual functions or components by themselves, but testing the full "message" feature requires testing how all these components work together as a system.
 
 ### 2) Would you use a unit test to test the "max message length" feature of a messaging application?
 
-**Yes.** The max message length can be tested as a single isolated function without involving other systems, making it a perfect unit test scenario.
+Yes, you would use a unit test for the "max message length" feature because this feature can be tested in isolation as a single unit. You can write a function and test it with different inputs without involving other components for unit testing.
